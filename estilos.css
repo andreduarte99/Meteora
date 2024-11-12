@@ -19,3 +19,12 @@
 .icons-color{
     color: #DAFF01;
 }
+
+.buttons-color{
+    background-color: #9353FF;
+    border: none;
+}
+
+.buttons-color:hover{
+    background-color: #DAFF01;
+}
