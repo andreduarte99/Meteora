@@ -12,11 +12,3 @@ Projeto loja virtual Meteora. Desafio da formação de Bootstrap5: crie uma land
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 ![Screenshot_1](https://github.com/user-attachments/assets/d26bbf2a-b16e-408e-8ff2-c33accd4742f#vitrinedev)
-
-
-<h3 align="center"> 
-    Autor: André Duarte
-</h3>
-<p align="center">
-<img height= 300px width= 300px src="https://github.com/andreduarte99/pong-com-Scratch/assets/42449246/706488b7-a318-4ea5-bc07-dcd35fbf1b64" alt="autor"/>
-</p>
