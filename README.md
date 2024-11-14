@@ -1,11 +1,11 @@
 # Meteora
 
-Projeto de Bootstrap 5. Desafio da formação de Bootstrap5: crie uma landing page responsiva.
+Projeto loja virtual Meteora. Desafio da formação de Bootstrap5: crie uma landing page responsiva.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alurabooks**
-| :label: Tecnologias | HTML e CSS.
+| :label: Tecnologias | Bootstrap e Javascript.
 | :rocket: URL         | https://andreduarte99.github.io/Meteora/
 | :fire: Desafio     | https://cursos.alura.com.br/course/bootstrap5-landing-page-responsiva
 
