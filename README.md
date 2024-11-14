@@ -1,4 +1,4 @@
-# Alurabooks
+# Meteora
 
 Projeto de Bootstrap 5. Desafio da formação de Bootstrap5: crie uma landing page responsiva.
 
