@@ -4,7 +4,7 @@ Projeto loja virtual Meteora. Desafio da formação de Bootstrap5: crie uma land
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Alurabooks**
+| :sparkles: Nome        | **Meteora**
 | :label: Tecnologias | Bootstrap e Javascript.
 | :rocket: URL         | https://andreduarte99.github.io/Meteora/
 | :fire: Desafio     | https://cursos.alura.com.br/course/bootstrap5-landing-page-responsiva
